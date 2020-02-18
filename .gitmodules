@@ -1,3 +1,3 @@
-[submodule "SwiftAudio"]
+[submodule "ios/RNTrackPlayer/Vendor/AudioPlayer"]
 	path = SwiftAudio
 	url = https://github.com/ConnectyCube/SwiftAudio.git
